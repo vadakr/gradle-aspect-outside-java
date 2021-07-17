@@ -1,0 +1,1 @@
+Gradle starter for aspects defined outside src/main/java, for example in src/main/aspectj
